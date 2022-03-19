@@ -51,7 +51,7 @@ function mediaqueryresponse(mql) {
       headerMobile.classList.add('animate-hidden'); // Contains either animate-hidden or fade-in
       navMobile.className = navMobile.className.replace( 'fade-in-down', 'animate-hidden' ); // Contains either fade-in-down or animate-hidden
     }
-    window.smallSize = false; // Register that the window is small
+    window.smallSize = false; // Register that the window is large
   }
 }
 
