@@ -1,3 +1,3 @@
 # site-template
 
-Creating a responsive site template
+A simple responsive site template.
